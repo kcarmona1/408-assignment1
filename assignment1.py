@@ -20,7 +20,7 @@ def import_data():
                              (i, row[0], row[1], row[8], row[7], random_advisor, row[2], row[3], row[4], row[5], row[6],0))
             i += 1
         conn.commit()
-    print('Data import complete.')
+    print('\nData import complete.\n')
 
 # -- other features --
 
