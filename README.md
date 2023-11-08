@@ -5,4 +5,4 @@
 * Student ID: 2379222
 * Comments/References:
   * StackOverflow, GeeksForGeeks, and W3Schools articles were used as a reference and to troubleshoot/debug code
-  * Solution performs operations as specified in the assignment overview, with most edge cases addressed when dealing with invalid user input.
+  * Solution performs operations as specified in the assignment overview, with most edge cases addressed when dealing with invalid user input
